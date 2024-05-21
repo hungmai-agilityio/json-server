@@ -57,7 +57,7 @@
     {
       "id": "b46f9f50-15db-11ef-bb98-35f8a777b8ca",
       "userName": "John`",
-      "email": "user@gmail.com2",
+      "email": "user@gmail.com",
       "password": "Password123",
       "created_at": "2024-05-19T12:31:24.101Z",
       "updated_at": "2024-05-19T12:45:28.688Z"
@@ -65,7 +65,7 @@
   ],
   "books": [
     {
-      "id": "1",
+      "id": "b58b2518-82c4-4c4f-9fe1-7e2f3a6d6a5e",
       "title": "Đắc Nhân Tâm",
       "image": "https://upload.wikimedia.org/wikipedia/vi/0/0a/%C4%90%E1%BA%AFc_nh%C3%A2n_t%C3%A2m.jpg",
       "text": "Friends and Influence",
@@ -79,7 +79,7 @@
       "created_at": "2024-04-26T12:00:00Z"
     },
     {
-      "id": "2",
+      "id": "a9d6f7c2-1e38-431a-8c5d-ecc7f04d39ea",
       "title": "Thần Thoại Hy Lạp",
       "image": "https://nxbphunu.com.vn/wp-content/uploads/2018/10/Than-thoai-hy-lap.jpg",
       "text": "legend",
@@ -93,7 +93,7 @@
       "created_at": "2021-04-02T12:00:00Z"
     },
     {
-      "id": "3",
+      "id": "3ab92b79-1d52-4a8f-99a7-6c3c78789345",
       "title": "C# Dành Cho Người Bắt Đầu",
       "image": "https://product.hstatic.net/200000845405/product/p88275mc_0a4e208d46a44268b354fac76b3b506c_master.jpg",
       "text": "c# basic",
@@ -107,7 +107,7 @@
       "created_at": "2024-04-02T12:00:00Z"
     },
     {
-      "id": "4",
+      "id": "ed4e64ca-3bc5-456b-836f-29a3bd9b0812",
       "title": "Sự Im Lặng Của Bầy Cừu",
       "image": "https://static.8cache.com/cover/o/eJzLyTDW1zXUzfExyDUINCyN1A8zdfYPNCuxLC7z1HeEgkCTfP2S8vRys6QKd2PjckOPjAzLRMsgb5Ngd5-SJHOXKtP8snRn53z9YgMAw00Yhg==/su-im-lang-cua-bay-cuu.jpg",
       "text": "detective",
@@ -122,7 +122,7 @@
       "created_at": "2012-04-02T12:01:00Z"
     },
     {
-      "id": "5",
+      "id": "f725d932-61ae-4c18-94b1-8f9b13a2a01c",
       "title": "Nhà giả kim",
       "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/9c/Nh%C3%A0_gi%E1%BA%A3_kim_%28s%C3%A1ch%29.jpg/225px-Nh%C3%A0_gi%E1%BA%A3_kim_%28s%C3%A1ch%29.jpg",
       "text": "The mystery",
@@ -137,7 +137,7 @@
       "created_at": "2008-04-02T12:01:00Z"
     },
     {
-      "id": "6",
+      "id": "6bc86a77-97cf-44a9-aa9a-e4a779c179df",
       "title": "Javascript ES6",
       "image": "https://m.media-amazon.com/images/I/91-PASfiUVL._AC_UF1000,1000_QL80_.jpg",
       "text": "Learning, technology",
@@ -151,7 +151,7 @@
       "created_at": "2018-04-02T12:01:00Z"
     },
     {
-      "id": "7",
+      "id": "cb68af0e-3b68-4b2e-b2fd-2c525fe6b081",
       "title": "Don't Make Me Think",
       "image": "https://m.media-amazon.com/images/I/61o93lrQ1ZL._AC_UF1000,1000_QL80_.jpg",
       "text": "Web Usability",
@@ -165,7 +165,7 @@
       "created_at": "2000-04-02T12:01:00Z"
     },
     {
-      "id": "8",
+      "id": "e695d5e1-722e-4b09-9e23-0f71a509c2d3",
       "title": "harry potter",
       "image": "https://nhasachphuongnam.com/images/detailed/160/81YOuOGFCJL.jpg",
       "text": "adventures of harry potter",
@@ -181,7 +181,7 @@
       "created_at": "2000-04-02T12:01:00Z"
     },
     {
-      "id": "9",
+      "id": "9ad17e7e-d9a9-4b62-8943-3c603bd1b214",
       "title": "rich dad poor dad",
       "image": "https://m.media-amazon.com/images/I/814u4vr3tzL._AC_UF1000,1000_QL80_.jpg",
       "text": "human life",
@@ -197,7 +197,7 @@
       "created_at": "2011-04-02T12:01:00Z"
     },
     {
-      "id": "10",
+      "id": "418eef41-b12e-4c6a-8f17-5e220a25d527",
       "title": "Think And Grow Rich",
       "image": "https://sachvui.com.vn/wp-content/uploads/2023/10/nghi-giau-lam-giau-think-and-grow-rich.jpg",
       "text": "adventures of harry potter",
@@ -216,53 +216,53 @@
   ],
   "borrowed": [
     {
-      "id": "1",
+      "id": "b1a5d74a-8b42-42e0-bc8d-1a16d9c52aa1",
       "user_id": "e7d1d160-078f-11ef-9ebd-d50e40f719a7",
-      "book_id": "5",
+      "book_id": "f725d932-61ae-4c18-94b1-8f9b13a2a01c",
       "created_at": "2024-04-01T12:00:00Z"
     },
     {
-      "id": "2",
+      "id": "8eab8a3e-c2d3-4846-89b6-bbd87e52b19e",
       "user_id": "e7d1d160-078f-11ef-9ebd-d50e40f719a7",
-      "book_id": "1",
+      "book_id": "b58b2518-82c4-4c4f-9fe1-7e2f3a6d6a5e",
       "created_at": "2024-04-01T12:00:00Z"
     },
     {
-      "id": "3",
+      "id": "9c99c631-dc41-44d3-8e0b-90f0dc9e6472",
       "user_id": "e7d1d160-078f-11ef-9ebd-d50e40f719a7",
-      "book_id": "6",
+      "book_id": "6bc86a77-97cf-44a9-aa9a-e4a779c179df",
       "created_at": "2024-04-01T12:00:00Z"
     }
   ],
   "user_favorite": [
     {
-      "id": "1",
+      "id": "0a8c58f7-768e-42e7-98d9-3fc5028b0b4e",
       "user_id": "e7d1d160-078f-11ef-9ebd-d50e40f719a7",
-      "book_id": "7",
+      "book_id": "cb68af0e-3b68-4b2e-b2fd-2c525fe6b081",
       "created_at": "2024-04-01T12:00:00Z"
     },
     {
-      "id": "2",
+      "id": "c9f2b6d4-7c0e-4c43-aa55-8461a4d79ac2",
       "user_id": "e7d1d160-078f-11ef-9ebd-d50e40f719a7",
-      "book_id": "6",
+      "book_id": "6bc86a77-97cf-44a9-aa9a-e4a779c179df",
       "created_at": "2024-04-01T12:00:00Z"
     },
     {
       "id": "fa5eb080-15dd-11ef-a4a5-cbe87e73d9fc",
       "user_id": "b46f9f50-15db-11ef-bb98-35f8a777b8ca",
-      "book_id": "3",
+      "book_id": "3ab92b79-1d52-4a8f-99a7-6c3c78789345",
       "created_at": "2024-05-19T12:47:40.424Z"
     },
     {
       "id": "fb6daf80-15dd-11ef-a4a5-cbe87e73d9fc",
       "user_id": "b46f9f50-15db-11ef-bb98-35f8a777b8ca",
-      "book_id": "4",
+      "book_id": "ed4e64ca-3bc5-456b-836f-29a3bd9b0812",
       "created_at": "2024-05-19T12:47:42.200Z"
     },
     {
       "id": "fc22a7a0-15dd-11ef-a4a5-cbe87e73d9fc",
       "user_id": "b46f9f50-15db-11ef-bb98-35f8a777b8ca",
-      "book_id": "6",
+      "book_id": "6bc86a77-97cf-44a9-aa9a-e4a779c179df",
       "created_at": "2024-05-19T12:47:43.386Z"
     }
   ]
